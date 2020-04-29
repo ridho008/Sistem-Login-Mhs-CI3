@@ -1,0 +1,3 @@
+dababase name : bisalagi_suryalogin
+database user : bisalagi_surya
+password : 2omOZmvyHJ
